@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GettingThingsDoneApp</string>
+    <string name="middleTab">To Do</string>
+    <string name="leftTab">Add Habit</string>
+    <string name="righTab">Add Goals</string>
+
+</resources>
